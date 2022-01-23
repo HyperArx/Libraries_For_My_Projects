@@ -4,10 +4,15 @@ All the libraries needed for my current and old repositories
 
 # Libraries to be installed in Arduino Ide Installation Directory
 
+[libraries.zip](https://github.com/HyperArx/Libraries_For_My_Projects/files/7919666/libraries.zip)
+
+Just Copy & Paste
 
 # Libraries to be Installed in Documents
 
 [libraries.zip](https://github.com/HyperArx/Libraries_For_My_Projects/files/7919660/libraries.zip)
 
-Just copy and paste
+Just Copy & Paste
+
+Cheers! 
 
